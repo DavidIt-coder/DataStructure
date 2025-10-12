@@ -415,7 +415,7 @@ void Teacher::print(ofstream& outfile)
 
 int main()
 {
-    List people;//
+    List people;
     people.ReadFiles();
     people.ReadFiles();
     people.WriteFile();

@@ -1,9 +1,6 @@
 #include<bits/stdc++.h>//万能头文件
 #include<vector>//vector头文件
 using namespace std;
-/*
-    
-    */
 
 int main()
 {   
